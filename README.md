@@ -17,7 +17,8 @@ pkg install php -y
 git clone https://github.com/noob-hackers/seeu
 cd $HOME
 cd seeu
-bash seeu.sh
+bash seeu.sh1
+
 
 
 
